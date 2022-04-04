@@ -1,21 +1,16 @@
 Olá, eu sou **@abnerjsmenezes**
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas pela UNICSUL (1º Semestre)** e trabalhando como **Aprendiz** no financeiro da **Biolab Sanus Farmacêutica**.
+Atualmente cursando **Engenharia de Software (3º Semestre)**.
 
 **Estou aprendendo:** 
-* HTML5 
-* CSS3 
-* Lógica de Programação
-* JavaScript 
 * Python
+* SQL
 
 **Linguagens que domino:**
 
 **Bibliotecas que domino:**
 
 **Frameworks que domino:**
-
-__*Aqui deixarei meus estudos sobre TI e projetos realizados ao longo do tempo, além de deixar também meus estudos sobre Administração, Contabilidade, Economia e Investimento.*__
 
 Se quiser contribuir com algo, estou aberto a isso.
  
