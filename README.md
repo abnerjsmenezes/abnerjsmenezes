@@ -1,6 +1,6 @@
 Olá, eu sou **@abnerjsmenezes**
 
-Atualmente cursando **Engenharia de Software (3º Semestre)**.
+Atualmente cursando **Engenharia de Software (4º Semestre)**.
 
 **Estou aprendendo:** 
 * Python
